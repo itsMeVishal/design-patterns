@@ -6,7 +6,7 @@ public class Shop {
 		Phone p = new PhoneBuilder().setBattary(3200)
 				.setOs("KITKAT").getPhone();
 		
-		System.out.println(p.toString());
+		System.out.println("Builder design pattern working fine!!!"+p.toString());
 		
 		
 		
