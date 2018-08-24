@@ -13,7 +13,7 @@ public class Test {
 		if(s1==s2)
 
 
-		System.out.println("Practice added conflicts!!!!");
+		System.out.println("MyEclipse added conflicts!!!!");
 
 	}
 
