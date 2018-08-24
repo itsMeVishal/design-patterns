@@ -11,7 +11,7 @@ public class Test {
 		s2.roll=1;
 		s2.name="vishal";
 		if(s1==s2)
-		System.out.println("Output:");
+		System.out.println("Output from practice goes here!!!:");
 
 	}
 
